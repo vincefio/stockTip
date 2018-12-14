@@ -1,0 +1,17 @@
+.logo{
+  color: #fff;
+  float: left;
+  display: inline-block;
+  font-size: 2.1rem;
+  padding: 0;
+  margin-left: 15px;
+}
+
+.randomDisplay{
+  height: 300px;
+  overflow: scroll;
+}
+
+.instructionText{
+  font-size: 1.35em;
+}
