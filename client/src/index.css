@@ -20,3 +20,7 @@ code {
 .projectDiv{
   margin-bottom: 10px;
 }
+
+.chart{
+  max-width: 100%;
+}
