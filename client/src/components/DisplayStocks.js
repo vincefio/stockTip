@@ -58,7 +58,7 @@ class DisplayStocks extends Component {
             <div className="container">
 
                 <h2>50 Random Stocks</h2>
-                <p className="instructionText">Add up to 5 stocks to get started. Click the stock to add to your cart</p>
+                <p className="instructionText">Add some stocks to get started. Click the stock to add to your cart</p>
                 <p className="instructionText">You currently have {this.props.myStocks.length} stocks in your portfolio</p>
                 <div className='randomDisplay'>
 
